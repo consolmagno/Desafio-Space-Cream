@@ -222,7 +222,7 @@ footer{
   }
 }
 
-@media(min-width:1200px){
+@media(min-width:1000px){
   main img{
     width: 32rem;
     height: 35rem;
